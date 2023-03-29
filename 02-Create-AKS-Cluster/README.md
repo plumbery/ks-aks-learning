@@ -1,6 +1,6 @@
 
 
-# Create AKS Cluster
+# Create AKS Clusters
 
 ## Step-01: Introduction
 - Understand about AKS Cluster
